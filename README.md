@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @PatrickYuzhiji
- 👀 I’m interested in Probability and Trade!
+I recently completed my Master’s degree in Computer Science at the University of Wollongong.
 
- 🌱 I’m currently learning Computer Science in UOW.
+I enjoy building side projects in my spare time, exploring new tools and ideas.
 
 <!---
 PatrickYuzhiji/PatrickYuzhiji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
