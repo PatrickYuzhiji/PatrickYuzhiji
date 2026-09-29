@@ -18,7 +18,7 @@ I'm a **DevOps / Cloud Engineer** focused on building automated, scalable, and r
 
 [![AWS Certified DevOps Engineer – Professional](BADGE_LINK_HERE)](https://www.credly.com/badges/f66d059c-f11e-4152-94b5-0010d1c6cc61/public_url)
 
-[![Certified Kubernetes Administrator (CKA)](BADGE_LINK_HERE)]({https://www.credly.com/badges/0451d3f1-2689-42ef-b898-b83459ca901c/public_url)
+[![Certified Kubernetes Administrator (CKA)](BADGE_LINK_HERE)](https://www.credly.com/badges/0451d3f1-2689-42ef-b898-b83459ca901c/public_url)
 
 [![HashiCorp Certified: Terraform Associate](BADGE_LINK_HERE)](https://www.credly.com/badges/c74b2246-ff0f-4eb3-9c09-e7966863ff00/public_url)
 
