@@ -14,7 +14,7 @@ I'm a **DevOps / Cloud Engineer** focused on building automated, scalable, and r
 
 <!-- Replace these with your certification badge links -->
 
-[![AWS Certified Solutions Architect – Professional](BADGE_LINK_HERE)](https://www.credly.com/badges/d505065e-04c4-4209-b4ca-b22c6dd76565/public_url)
+[![AWS Certified Solutions Architect – Professional]([BADGE_LINK_HERE)](https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/d505065e-04c4-4209-b4ca-b22c6dd76565/public_url)
 
 [![AWS Certified DevOps Engineer – Professional](BADGE_LINK_HERE)](https://www.credly.com/badges/f66d059c-f11e-4152-94b5-0010d1c6cc61/public_url)
 
